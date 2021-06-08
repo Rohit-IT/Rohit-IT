@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rohit-IT
 - 👀 I’m interested in Cyber Security , Ethical Hacking ,Cyber Forensics.
-- 🌱 I’m currently learning Cybersecurity & Pursuing Final year in Information Technology
+- 🌱 I’m currently learning Cybersecurity,Ethical HAcking & Pursuing Final year in Information Technology
 - 💞️ I’m looking to collaborate on projects and work related to Cyber Security and Cyber Forensics
 - 📫 How to reach me 
                     - www.linkedin.com/in/rohit-jadhav1928
